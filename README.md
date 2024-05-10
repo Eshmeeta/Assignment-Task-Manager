@@ -3,6 +3,14 @@ In a fast-paced digital landscape, effective task management is crucial for busi
 However, managing tasks across teams and projects can be challenging without a centralized system. 
 The RESTful API developed using .NET Core addresses this need by providing a robust solution for task management.
 
+# Endpoints 
+![image](https://github.com/Eshmeeta/Assignment-Task-Manager/assets/169447614/55a74c3e-9f07-4268-8e05-b2871bf44eef)
+
+# Schema:
+![image](https://github.com/Eshmeeta/Assignment-Task-Manager/assets/169447614/d3bdcca9-9d1b-427f-b529-af42a7f6f9b3)
+
+
+
 # Setup :
 ## Install Prerequisites:
 
