@@ -14,7 +14,7 @@ The RESTful API developed using .NET Core addresses this need by providing a rob
 # Setup :
 ## Install Prerequisites:
 
-Install the .NET Core SDK for your operating system if you haven't already. 
+Install the .NET Core SDK for your operating system if you haven't already. Install the necessary Nuget Packages of EF Core.
 
 ## Clone the Repository:
 Clone the repository containing the RESTful API project to your local machine using Git.
